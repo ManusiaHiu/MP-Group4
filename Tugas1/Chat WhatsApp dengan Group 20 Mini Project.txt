@@ -1,0 +1,73 @@
+28/03/22 10.25 - Pesan dan panggilan terenkripsi secara end-to-end. Tidak seorang pun di luar chat ini, termasuk WhatsApp, yang dapat membaca atau mendengarkannya. Ketuk untuk info selengkapnya.
+28/03/22 10.23 - ‎+62 813-1743-3650 membuat grup "Group 20 Mini Project"
+28/03/22 10.25 - Anda bergabung menggunakan tautan undangan grup ini
+28/03/22 10.26 - ‎+62 813-2405-0584 bergabung menggunakan tautan undangan grup ini
+28/03/22 10.27 - ‎+62 819-9230-5715 bergabung menggunakan tautan undangan grup ini
+28/03/22 10.30 - ‎+62 813-1743-3650 telah mengubah deskripsi grup
+28/03/22 10.30 - ‎+62 822-8767-7302 bergabung menggunakan tautan undangan grup ini
+28/03/22 10.34 - Fitria Ari: Halo
+28/03/22 10.34 - Fitria Ari: Udh lengkap ya
+28/03/22 10.34 - +62 813-2405-0584: Iyaa udah
+28/03/22 10.35 - Fitria Ari: <Media tidak disertakan>
+28/03/22 10.35 - Fitria Ari: <Media tidak disertakan>
+28/03/22 10.35 - +62 813-1743-3650: deadlinenya kapan ya?
+28/03/22 10.36 - Fitria Ari: Kurang tau. Kata tmn klsku hari ini
+28/03/22 10.36 - Anda sekarang adalah admin
+28/03/22 10.36 - +62 813-2405-0584: hari ini jam 12
+28/03/22 10.36 - +62 822-8767-7302: Katanya hari ini jam 12
+28/03/22 10.36 - Fitria Ari: Whattt
+28/03/22 10.36 - +62 813-1743-3650: waduh
+28/03/22 10.36 - +62 813-2405-0584: seadanya aja katanyaa sebisanya
+28/03/22 10.37 - Fitria Ari: Bikin collab dulu
+28/03/22 10.38 - +62 813-2405-0584: okee, siapa yang mau bikin?
+28/03/22 10.39 - +62 813-1743-3650: https://colab.research.google.com/drive/1eP9SNIFPthy7dUFB7PfDr0SGJ7HVof5F?usp=sharing
+28/03/22 10.39 - +62 813-2405-0584: sipp
+28/03/22 10.40 - Fitria Ari: Ini btw kita gk ad kenalan2 udh nugas aja ekekwk
+28/03/22 10.40 - +62 813-2405-0584: ehiya haha
+28/03/22 10.40 - +62 813-2405-0584: kenalin yaa aku Aurelia Zafira Putri dari kelas AlphaGo
+28/03/22 10.41 - Fitria Ari: Aku Ari Fitria (cewek) 
+Dri kelas khasanah ilmi
+28/03/22 10.42 - +62 813-1743-3650: saya zulvan tariq dari kelas alphago.. salam kenal semuanya
+28/03/22 10.43 - +62 819-9230-5715: Akbar Mujaddid (cwk) 
+Dri kelas Alfatih
+28/03/22 10.44 - +62 822-8767-7302: Saya nadini mardiah yasen dari kelas alphago
+28/03/22 10.46 - +62 813-2405-0584: banyak yaa dari alpha go wkwk
+28/03/22 10.48 - +62 813-1743-3650: ini kita gak usah bikin repo di github kan?
+28/03/22 10.49 - +62 813-2405-0584: gak usah sih harusnya cuma disuruh bikin aja
+28/03/22 10.49 - +62 813-2405-0584: ini ada yang lagi ngerjain buat masukin featurenya?
+28/03/22 10.50 - +62 813-2405-0584: mau aku masukin tapi takut double gitu, kalo ada aku coba yang selanjutnya
+28/03/22 10.58 - Fitria Ari: cek collab nya dong aku udh ngerjain yg no 1
+28/03/22 10.58 - Fitria Ari: yg PCA
+28/03/22 10.58 - +62 813-2405-0584: sip udah
+28/03/22 11.11 - Fitria Ari: Tinggal plot PCA sama yg LDA
+28/03/22 11.12 - Fitria Ari: Ada yg ngerjain kah?
+28/03/22 11.12 - +62 813-2405-0584: aku tadi mau ngerjain tapi nunggu beres dulu takut kecampur tadi soalnya ga kesave gitu
+28/03/22 11.12 - +62 813-2405-0584: yang udah latiahn 1 aja kan ya?
+28/03/22 11.13 - Fitria Ari: Iya
+28/03/22 11.13 - Fitria Ari: Tpi plot yg dimaksud kek gtu apa bukan kurang paham
+28/03/22 11.15 - +62 813-2405-0584: kalo yang contoh diatasnya sih plot titik, tapi kayanya bebas deh
+28/03/22 11.17 - Fitria Ari: Ok udh ya no 1
+28/03/22 11.17 - Fitria Ari: Cek cek dulu aja klo ada yg gk pas monggo langsung diedit
+28/03/22 11.18 - +62 813-2405-0584: okey
+28/03/22 11.18 - +62 813-2405-0584: yang latihan 2 itu data setnya sama ga sih sama yang dulu iris datasetnya/
+28/03/22 11.18 - Fitria Ari: Iya
+28/03/22 11.18 - +62 813-2405-0584: soalnya aku klik link itu gaada filenya
+28/03/22 11.18 - +62 813-2405-0584: okeyy
+28/03/22 11.23 - +62 822-8767-7302: Yg ngerjain no 2 siapa?
+28/03/22 11.23 - +62 813-1743-3650: https://drive.google.com/drive/folders/1HZZc2-xx_9FNFsYiOnB95TnFWcyGJYRo?usp=sharing
+28/03/22 11.23 - +62 813-2405-0584: aku lagi cobain
+28/03/22 11.24 - +62 822-8767-7302: Okey
+28/03/22 11.40 - +62 813-2405-0584: latihan 2 udah, coba cek dulu takut ada yang kurang atau salah
+28/03/22 11.42 - Fitria Ari: No 1. plt.plot(pca_df) nya kehapus deh kaya nya yg harusnya ada di bawah plt.plot(y)
+28/03/22 11.44 - +62 813-2405-0584: wait aku tambahin
+28/03/22 11.45 - +62 813-2405-0584: udah, coba cek
+28/03/22 11.45 - Fitria Ari: Oke
+28/03/22 11.46 - Fitria Ari: Kumpul2 wkwkk
+28/03/22 11.46 - +62 813-2405-0584: siapa yang mau kumpulin??
+28/03/22 11.52 - +62 813-1743-3650: udah dikumpulin?
+28/03/22 11.57 - +62 813-2405-0584: Belum
+28/03/22 11.57 - +62 813-2405-0584: Ada yang mau kumpulin ga
+28/03/22 11.57 - +62 822-8767-7302: Export chat wa grup maksdny apa?
+28/03/22 11.58 - +62 813-2405-0584: <Media tidak disertakan>
+28/03/22 11.58 - +62 813-2405-0584: Ntar filenya didownload
+28/03/22 11.58 - +62 813-2405-0584: Kayanya sih
